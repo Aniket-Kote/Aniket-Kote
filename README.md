@@ -93,7 +93,7 @@ Deep-learning-driven auto-reply tool, personalised per user.
 # 🔗 CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniket-kote-a14826169/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
+  <a href="https://www.linkedin.com/in/aniket-kote-a14826169/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
   <a href="mailto:aniketkote08@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
   <a href="https://github.com/Aniket-Kote"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/></a>
 </p>
