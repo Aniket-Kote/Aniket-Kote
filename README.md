@@ -99,11 +99,11 @@ Deep-learning-driven auto-reply tool, personalised per user.
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img src="https://i.imgur.com/Md8qG6o.gif" width="260px"/>
 </p>
-
+-->
 <h3 align="center" style="font-weight:300; color:#777;">
   Thanks for visiting. The story continues…
 </h3>
