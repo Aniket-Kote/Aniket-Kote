@@ -1,7 +1,5 @@
-<!-- Cinematic Animated Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/JO4bHGa.gif" width="100%" height="260px" />
-</p>
+
+
 
 <h1 align="center">
   <span style="font-weight:300; letter-spacing:4px;">ANIKET KOTE</span>
@@ -31,7 +29,7 @@
 
 ---
 
-# 🛠 TECH STACK (CINEMATIC EDITION)
+# 🛠 TECH STACK 
 
 ### **Core Languages**
 <p>
@@ -40,7 +38,7 @@
 
 ### **Machine Learning & Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
 </p>
 
 ### **Backend / Frontend**
@@ -69,7 +67,7 @@ Designed with a dark, dramatic dashboard UI.
 Deep-learning-driven auto-reply tool, personalised per user.
 
 ---
-
+<!--
 # 🌓 GITHUB STATS (NOIR MODE)
 
 <div align="center">
@@ -89,14 +87,14 @@ Deep-learning-driven auto-reply tool, personalised per user.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aniket-Kote&theme=onedark&no-frame=true&row=1&margin-w=20" />
 </p>
-
+-->
 ---
 
 # 🔗 CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniket-kote/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
-  <a href="mailto:aniketskote@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
+  <a href="https://www.linkedin.com/in/aniket-kote-a14826169/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
+  <a href="mailto:aniketkote08@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
   <a href="https://github.com/Aniket-Kote"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/></a>
 </p>
 
